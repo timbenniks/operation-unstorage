@@ -5,6 +5,6 @@ export default defineNuxtConfig({
     compatibilityVersion: 4,
   },
   routeRules: {
-    '/api/talks/**': { isr: true }
+    '/api/talks/**': { prerender: true }
   }
 })
