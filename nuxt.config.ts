@@ -1,8 +1,9 @@
-// https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-  devtools: { enabled: true },
+  devtools: { enabled: false },
   compatibilityDate: "2024-07-04",
-
+  future: {
+    compatibilityVersion: 4,
+  },
   runtimeConfig: {
     gqlEndpoint: process.env.GQL_ENDPOINT,
   }
