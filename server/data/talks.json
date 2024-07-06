@@ -1,0 +1,652 @@
+{
+  "talks": [
+    {
+      "id": "clqdq87gltsup0bvztwqw2f1v",
+      "conference": "CMSCamp Mallorca",
+      "talk": "Alive and Kicking",
+      "location": "Catalonia Majorica Palma Mallorca",
+      "date": "2024-09-27",
+      "link": "https://mallorca.cmscamp.eu/"
+    },
+    {
+      "id": "clxkjutfsgp2b08uncx30wni3",
+      "conference": "Algolia DevBit",
+      "talk": "CatnibDB, Supabase and Algolia power",
+      "location": "Virtual",
+      "date": "2024-06-26",
+      "link": "https://app.events.ringcentral.com/events/algolia-devbit-5/reception"
+    },
+    {
+      "id": "clqdq6ui7ts730bvzmk1xw47t",
+      "conference": "ContentCon 2024",
+      "talk": "Alive and Kicking",
+      "location": "Austin, Texas",
+      "date": "2024-06-05",
+      "link": "https://www.contentstack.com/contentcon"
+    },
+    {
+      "id": "clkzot86xire30aujuy08465e",
+      "conference": "DEVworld Conference 2024",
+      "talk": "Alive and Kicking - a vue into rock & roll",
+      "location": "Amsterdam",
+      "date": "2024-02-29",
+      "link": "https://devworldconference.com/"
+    },
+    {
+      "id": "clifzvp5o4phd0bw9zlqokbg5",
+      "conference": "WeAreDevelopers World Congress",
+      "talk": "Alive and Kicking, a Vue into Rock & Roll",
+      "location": "Berlin",
+      "date": "2023-07-27",
+      "link": "https://www.wearedevelopers.com/world-congress"
+    },
+    {
+      "id": "clifzq1jr4l270bw8kd2g9v6e",
+      "conference": "WeAreDevelopers World Congress",
+      "talk": "Alive and Kicking, a Vue into Rock & Roll",
+      "location": "Berlin",
+      "date": "2023-07-27",
+      "link": "https://www.wearedevelopers.com/world-congress"
+    },
+    {
+      "id": "clifq4sto3xph0aw4letve613",
+      "conference": "WeAreDevelopers World Congress",
+      "talk": "Alive and Kicking, a Vue into Rock & Roll",
+      "location": "Berlin",
+      "date": "2023-07-27",
+      "link": "https://www.wearedevelopers.com/world-congress"
+    },
+    {
+      "id": "clifzq1yh4l2b0bw8yplcllnt",
+      "conference": "Vue.js Global Summit '23",
+      "talk": "The modern front end is composable",
+      "location": "Virtual",
+      "date": "2023-06-06",
+      "link": "https://events.geekle.us/vuejs23/"
+    },
+    {
+      "id": "clifq4t4w40dr0bw98f7p9zrq",
+      "conference": "Vue.js Global Summit '23",
+      "talk": "The modern front end is composable",
+      "location": "Virtual",
+      "date": "2023-06-06",
+      "link": "https://events.geekle.us/vuejs23/"
+    },
+    {
+      "id": "clifq4thm3xel0buvdpqx8bdm",
+      "conference": "CityJS Athens",
+      "talk": "Alive and Kicking, a Vue into Rock & Roll as MC",
+      "location": "Athens",
+      "date": "2023-05-29",
+      "link": "https://greece.cityjsconf.org/"
+    },
+    {
+      "id": "clifq4tw33we40bw8jxhaaroo",
+      "conference": "Vue.js London Life Conference",
+      "talk": "Alive and Kicking, a Vue into Rock & Roll",
+      "location": "London",
+      "date": "2023-05-12",
+      "link": "https://vuejslive.com/"
+    },
+    {
+      "id": "clifq4u9b3xpm0aw45vj51alh",
+      "conference": "Cloudinary User Summit London",
+      "talk": "Alive and Kicking, a Vue into Rock & Roll",
+      "location": "London",
+      "date": "2023-04-20",
+      "link": "https://events.cloudinary.com/cloudinaryusersummitlondon"
+    },
+    {
+      "id": "clifq4ul43we80bw8ihhkw7qr",
+      "conference": "CityJS Conf London",
+      "talk": "The modern tech stack is composable",
+      "location": "London",
+      "date": "2023-03-29",
+      "link": "https://cityjsconf.org/speakers"
+    },
+    {
+      "id": "clifq4uz43xpt0aw4mw4awvuj",
+      "conference": "Vuejs Amsterdam",
+      "talk": "Alive and Kicking - a Vue into Rock & Roll",
+      "location": "Amsterdam",
+      "date": "2023-02-08",
+      "link": "https://vuejs.amsterdam/"
+    },
+    {
+      "id": "clifq4vdb40el0bw9il2y3pb4",
+      "conference": "JamstackConf 2022",
+      "talk": "The modern digital pipeline, the future of the jamstack is composable",
+      "location": "San Fransisco, United States",
+      "date": "2022-11-08",
+      "link": "https://jamstack.org/conf/"
+    },
+    {
+      "id": "clifq4vps3xep0buvimxfntyq",
+      "conference": "VueConf Toronto 2022",
+      "talk": "The modern digital pipeline, the future of the jamstack is composable",
+      "location": "Metro Toronto Convention Centre",
+      "date": "2022-11-02",
+      "link": "https://www.vuetoronto.com/"
+    },
+    {
+      "id": "clifq4w263xet0buv0mzqzfre",
+      "conference": "Strapi live stream",
+      "talk": "Composability with Strapi and Uniform",
+      "location": "Virtual",
+      "date": "2022-10-14",
+      "link": "https://lu.ma/strapi-uniform-magic"
+    },
+    {
+      "id": "clifq4wef3xpx0aw4l7ueiqwb",
+      "conference": "Javascript Global Summit'22",
+      "talk": "The modern digital pipeline, the future is composable",
+      "location": "virtual",
+      "date": "2022-09-27",
+      "link": "https://events.geekle.us/js/"
+    },
+    {
+      "id": "clifq4wqo40fh0bw9sifjtw70",
+      "conference": "Cloudinary Podcast",
+      "talk": "Benefits and Factors to Consider with MACH Architecture",
+      "location": "Virtual",
+      "date": "2022-09-14",
+      "link": "https://www.youtube.com/watch?v=uC1iD_Sq_Bo"
+    },
+    {
+      "id": "clifq4x0z3xq20aw48a1n9hxy",
+      "conference": "Swipe Con 2022",
+      "talk": "The power of personalization in composable architectures",
+      "location": "Virtual",
+      "date": "2022-08-25",
+      "link": "https://uandi.com/swipe-con"
+    },
+    {
+      "id": "clifq4xdz3wek0bw862z7knrr",
+      "conference": "Agility CMS Webinar",
+      "talk": "How can enterprises move from monolithic solutions to composability",
+      "location": "Virtual",
+      "date": "2022-08-11",
+      "link": "https://agilitycms.com/resources/events/how-can-enterprises-move-from-monolithic-solutions-to-composability"
+    },
+    {
+      "id": "clifq4xw640fr0bw9po5n2nug",
+      "conference": "Netlify Live Stream",
+      "talk": "Live: Creating a Composable Site with Personalization on the Edge",
+      "location": "Virtual",
+      "date": "2022-08-10",
+      "link": "https://www.youtube.com/watch?v=mntPUZRy3wA"
+    },
+    {
+      "id": "clifq4yep3xf20buv5vorwrl5",
+      "conference": "Composability Summit 2022",
+      "talk": "The modern digital pipeline, the future is composable",
+      "location": "Virtual",
+      "date": "2022-07-27",
+      "link": "https://composability.dev/"
+    },
+    {
+      "id": "clifq4ywg3xq60aw48tkujxyl",
+      "conference": "Vue.js Roadtrip Barcelona",
+      "talk": "The future of Jamstack is composable",
+      "location": "Barcalonam Glovo HQ, Barcelona, Spain",
+      "date": "2022-07-01",
+      "link": "https://www.eventbrite.co.uk/e/vuejs-roadtrip-barcelona-tickets-339022735127"
+    },
+    {
+      "id": "clifq4zjc40fv0bw95ufcly4y",
+      "conference": "The state of Jamstack by Kentico",
+      "talk": "Discussion on state of Jamstack 2022",
+      "location": "Virtual",
+      "date": "2022-06-13",
+      "link": "https://kontent.ai/webinars/state-of-jamstack-2022-report-emea/"
+    },
+    {
+      "id": "clifq4z8o3xqf0aw49q8f55f9",
+      "conference": "MACHathon LinkedIn Live",
+      "talk": "Presenting MACHathon Uniform Entry",
+      "location": "Linkedin",
+      "date": "2022-06-13",
+      "link": "https://www.linkedin.com/video/event/urn:li:ugcPost:6940601525266206720/"
+    },
+    {
+      "id": "clifq4zvh40fz0bw986sdpv5u",
+      "conference": "Vue.js Global 2022",
+      "talk": "Cable management for Nuxt. Compose pages with multiple headless sources and never re-platform again",
+      "location": "Theater Amsterdam, The Netherlands",
+      "date": "2022-06-02",
+      "link": "https://vuejs.amsterdam/"
+    },
+    {
+      "id": "clifq506e3wev0bw88q2lf63q",
+      "conference": "Vue.js Global Summit'22",
+      "talk": "The future of Jamstack is composable",
+      "location": "virtual",
+      "date": "2022-05-26",
+      "link": "https://events.geekle.us/vuejs/"
+    },
+    {
+      "id": "clifq50g53xfr0buv56km2voa",
+      "conference": "GatsbyConf 2022",
+      "talk": "The Modern DXP: How Jamstack will change the world",
+      "location": "Virtual",
+      "date": "2022-03-02",
+      "link": "https://www.gatsbyconf.com/"
+    },
+    {
+      "id": "clifq50sj40g30bw9rqy825mb",
+      "conference": "Vue Storefront Hackathon - Flash Talk",
+      "talk": "Modern Commerce - How Jamstack will change the world",
+      "location": "Virtual",
+      "date": "2022-03-01",
+      "link": "https://www.youtube.com/watch?v=1lhZqBvgoxU"
+    },
+    {
+      "id": "clifq515940g70bw9yu0ltedp",
+      "conference": "LAB Group Round Table",
+      "talk": "Stick or Twist: Monolith v.s Microservices",
+      "location": "virtual",
+      "date": "2022-02-10",
+      "link": "https://lab.co.uk/"
+    },
+    {
+      "id": "clifq51j53wez0bw8cd1znjmi",
+      "conference": "Kontent Rocks podcast",
+      "talk": "Personalisation in the Jamstack with Kentico Kontent",
+      "location": "virtual",
+      "date": "2022-02-08",
+      "link": "https://podcasts.apple.com/us/podcast/kontent-rocks-podcast/id754786884"
+    },
+    {
+      "id": "clifq51vy3wf30bw8qsv8nsv9",
+      "conference": "The Jam.dev 2022",
+      "talk": "Cable Managing the Jamstack",
+      "location": "Virtual",
+      "date": "2022-01-27",
+      "link": "https://cfe.dev/events/the-jam-2022/"
+    },
+    {
+      "id": "clifq528940gb0bw9bok0o68k",
+      "conference": "Vue.js Berlin",
+      "talk": "Vue js round-table discussion",
+      "location": "Virtual",
+      "date": "2021-12-14",
+      "link": "https://www.meetup.com/Vue-js-Berlin/"
+    },
+    {
+      "id": "clifq52jm3xqj0aw4mxuyuaey",
+      "conference": "E-Commerce tech summit 21 by Geekle",
+      "talk": "Modern Commerce - How Jamstack will change the world",
+      "location": "Virtual",
+      "date": "2021-12-01",
+      "link": "https://geekle.us/e-commerce"
+    },
+    {
+      "id": "clifq52wr3wfm0bw83eawjx9x",
+      "conference": "VueConf Toronto 2021",
+      "talk": "Cable management for Nuxt. Compose pages with multiple headless sources and never re-platform again...",
+      "location": "Virtual",
+      "date": "2021-11-22",
+      "link": "https://www.vuetoronto.com/"
+    },
+    {
+      "id": "clifq536v3xg20buvlz1n7ddw",
+      "conference": "Kontent Horizons",
+      "talk": "This talk showcases the Digital Experience Platform of the future. I will outline how we used to build DXP's and what needs to change to modernize them.",
+      "location": "Virtual",
+      "date": "2021-11-10",
+      "link": "https://horizons.kontent.ai/"
+    },
+    {
+      "id": "clifq53ib40gf0bw9c3mxprzu",
+      "conference": "Fast Forward 2021",
+      "talk": "This talk showcases the Digital Experience Platform of the future. I will outline how we used to build DXP's and what needs to change to modernize them.",
+      "location": "Virtual",
+      "date": "2021-11-04",
+      "link": "https://www.contentful.com/fast-forward/"
+    },
+    {
+      "id": "clifq53so3wfq0bw81xni3t7x",
+      "conference": "DevBreak - The ultimate tech festival",
+      "talk": "JAMstack is the future. I think. Maybe.",
+      "location": "Bouville, France",
+      "date": "2021-09-07",
+      "link": "https://www.devbreak.io/"
+    },
+    {
+      "id": "clifq542s3xg60buvdk199xtq",
+      "conference": "Programmed in Pencil Meetup",
+      "talk": "This talk showcases the Digital Experience Platform of the future. I will outline how we used to build DXP's and what needs to change to modernize them.",
+      "location": "Virtual",
+      "date": "2021-07-27",
+      "link": "https://www.programmedinpencil.com/"
+    },
+    {
+      "id": "clifq54ct3wfu0bw8zsr9mejw",
+      "conference": "2021 VueDay Italy",
+      "talk": "MC & talk: Magical combination to build a modern website",
+      "location": "Virtual",
+      "date": "2021-04-29",
+      "link": "https://2021.vueday.it/"
+    },
+    {
+      "id": "clifq54na3xgb0buvrvmbamxf",
+      "conference": "Vue Storefront Summit 2021",
+      "talk": "Hyper fast personalization for modern e-commerce",
+      "location": "Virtual",
+      "date": "2021-04-20",
+      "link": "https://hopin.com/events/vue-storefront-summit-2021"
+    },
+    {
+      "id": "clifq54zf3wfz0bw80v5gzndk",
+      "conference": "Before Devbreak",
+      "talk": "Dynamic personalization on JAMstack websites",
+      "location": "Virtual",
+      "date": "2021-04-07",
+      "link": "https://www.devbreak.io/before-devbreak"
+    },
+    {
+      "id": "clifq559p3xgf0buvzch9im3l",
+      "conference": "City JS Conf 2021",
+      "talk": "A developers guide to low carbon websites",
+      "location": "Virtual",
+      "date": "2021-03-24",
+      "link": "https://cityjsconf.org/"
+    },
+    {
+      "id": "clifq55jz3xqp0aw4je7y5sw1",
+      "conference": "GatsbyConf 2021",
+      "talk": "A workshop on connecting ContentStack, Gatsby and Uniform",
+      "location": "Virtual",
+      "date": "2021-03-03",
+      "link": "https://gatsbyconf.com/event/easily-build-a-dynamic-and-personalized-website-with-contentstack-gatsby-and-uniform/"
+    },
+    {
+      "id": "clifq55tf40gk0bw9vofea3yp",
+      "conference": "JS World Conference",
+      "talk": "The Modern DXP. How JAMstack will change the world.",
+      "location": "Virtual",
+      "date": "2021-02-22",
+      "link": "https://frontenddeveloperlove.com/"
+    },
+    {
+      "id": "clifq56623xqt0aw44sbds5cn",
+      "conference": "The Power of Cross-Technology Innovation",
+      "talk": "#21 with Peggy, Tim, and Idoia",
+      "location": "Virtual",
+      "date": "2021-02-02",
+      "link": "https://www.linkedin.com/video/live/urn:li:ugcPost:6762404029302640640/"
+    },
+    {
+      "id": "clifq56gq3xqx0aw47qor4w9s",
+      "conference": "Web Dev x Sustainability ",
+      "talk": "BOECKBX - Let's Talk About Eco-Friendliness in Web Development",
+      "location": "YouTube",
+      "date": "2021-02-01",
+      "link": "https://www.youtube.com/watch?v=LcUaUC6BxUk"
+    },
+    {
+      "id": "clifq56q43xgk0buv4hu04quz",
+      "conference": "Vue.js // Berlin",
+      "talk": "The magical combination for creating a modern website.",
+      "location": "Virtual",
+      "date": "2021-01-12",
+      "link": "https://www.meetup.com/Vue-js-Berlin/events/wwtgqrycccbqb/"
+    },
+    {
+      "id": "clifq571z40gq0bw9b62wbowr",
+      "conference": "Environmentally Sustainable Websites",
+      "talk": "Digital's Carbon Footprint, Green Development Choices and Options, Sustainable Shortcuts, Optimised User Experiences, MACH/Composable Architecture",
+      "location": "Virtual",
+      "date": "2020-12-18",
+      "link": "https://www.valtech.com/podcasts/digital-transformation-podcast-environmentally-sustainable-websites"
+    },
+    {
+      "id": "clifq57c43wg40bw81h7fr291",
+      "conference": "Zeplin ZAM JAM",
+      "talk": "In this first ever Zam Jam session, we’re talking to 3 digital leaders about how Zeplin helps their agency foster deep customer engagement and multi-disciplined team collaboration to build beautiful products and deliver on the promise of design.",
+      "location": "Virtual (YouTube Livestream)",
+      "date": "2020-12-16",
+      "link": "https://www.youtube.com/watch?v=tUc9CKiC0Go"
+    },
+    {
+      "id": "clifq57o03xgp0buvlvdxm5l9",
+      "conference": "Tech Talks with Santosh ",
+      "talk": "Santosh: In this talk show, we will have some awesome developers, sharing content from the programming language they work on.",
+      "location": "Virtual (Youtube Livestream)",
+      "date": "2020-12-11",
+      "link": "https://www.youtube.com/c/TechTalksWithSantosh"
+    },
+    {
+      "id": "clifq582i3wg80bw8rszss5am",
+      "conference": "Cloudinary Webinar: Road to headless",
+      "talk": "Join us to learn how a headless architecture can help you streamline content delivery through an integration of composed components with best-of-breed vendors.",
+      "location": "Virtual",
+      "date": "2020-12-02",
+      "link": "https://cloudinary.com"
+    },
+    {
+      "id": "clifq58cz3xr10aw4n6qndf3s",
+      "conference": "Zeplin ZAM JAM round table discussion",
+      "talk": "In this discussion between multiple agencies we try to provide real world insight into how teams are using Zeplin.",
+      "location": "Virtual",
+      "date": "2020-12-01",
+      "link": "https://www.youtube.com/channel/UCM2z6CHM4wvmlB9qo_dq0dg"
+    },
+    {
+      "id": "clifq58oo40gu0bw9iffiakmh",
+      "conference": "Podcast: RETHINK Luxury - Ep 2: Sustainability",
+      "talk": "We’ll be diving into ethical sourcing in luxury, the challenges of implementing sustainable businesses practices, and envisioning a better world forward",
+      "location": "Podcast",
+      "date": "2020-11-11",
+      "link": "https://www.rethink.industries/podcast/rethink-luxury-sustainability/"
+    },
+    {
+      "id": "clifq590340gy0bw9onnmgr7y",
+      "conference": "Live coding for the Prismic Slice Contest",
+      "talk": "Lucie and Tim will connect to build a simple Slice Library for 1 hour.\nThey will be using the New Slice Builder for that, which also generates Storybook stories for each of their components.",
+      "location": "Virtual",
+      "date": "2020-11-10",
+      "link": "https://www.youtube.com/watch?v=p3Wih8zOfI8"
+    },
+    {
+      "id": "clifq59b83xr60aw45w2sqa1g",
+      "conference": "JS Monthly Online #07, Oct Meetup",
+      "talk": "I will take you through the new features of Webpack 5 and also provide some examples where we could benefit in your day to day development live",
+      "location": "Virtual",
+      "date": "2020-10-29",
+      "link": "https://www.meetup.com/js-monthly/events/273843246/"
+    },
+    {
+      "id": "clifq59mp3wgc0bw82qykah6x",
+      "conference": "Vue.js Antwerp - October 2020",
+      "talk": "The magical combination for creating a modern website.",
+      "location": "Virtual",
+      "date": "2020-10-14",
+      "link": "https://www.meetup.com/vue-antwerp/events/273585859/"
+    },
+    {
+      "id": "clifq59zj3wgg0bw8xmh09vvm",
+      "conference": "Vue.js Global Conference 2020",
+      "talk": "An introduction to Vite and VitePress",
+      "location": "Virtual",
+      "date": "2020-09-17",
+      "link": "https://vuejs.amsterdam"
+    },
+    {
+      "id": "clifq5a9x3wgk0bw8x8qfl5rk",
+      "conference": "JS Monthly Online",
+      "talk": "A Developers Guide To Low Carbon Websites",
+      "location": "Virtual",
+      "date": "2020-08-26",
+      "link": "https://www.meetup.com/js-monthly/events/272459669/"
+    },
+    {
+      "id": "clifq5anp3xrb0aw4jxeipa7e",
+      "conference": "Views on Vue Podcast Interview",
+      "talk": "My views on Vue at scale and on enterprise level",
+      "location": "Virtual",
+      "date": "2020-08-05",
+      "link": "https://devchat.tv/views-on-vue/vov-116-using-vue-at-scale-at-loreal-with-tim-benniks/"
+    },
+    {
+      "id": "clifq5axb3xgw0buvy6hrvpv2",
+      "conference": "ImageCon 2020",
+      "talk": "A Developers Guide To Lowe Carbon Websites",
+      "location": "Virtual",
+      "date": "2020-07-27",
+      "link": "https://www.imagecon.com/"
+    },
+    {
+      "id": "clifq5b6s3xrf0aw4s8ml5qjb",
+      "conference": "Prismic webinar",
+      "talk": "Why go headless? Steps to go from a monolithic CMS to a decoupled one.",
+      "location": "Virtual",
+      "date": "2020-07-21",
+      "link": "https://www.youtube.com/watch?v=wVyMYGrI0hM"
+    },
+    {
+      "id": "clifq5bj73xrj0aw42st3pna4",
+      "conference": "ReactiveConf",
+      "talk": "Team First - Corona edition",
+      "location": "Virtual",
+      "date": "2020-06-09",
+      "link": "https://www.meetup.com/ReactiveMeetupsPrague/events/270869144/"
+    },
+    {
+      "id": "clifq5bvw40h20bw92kt7pmp1",
+      "conference": "That's my JAMstack podcast interview",
+      "talk": "JAMstack is my JAM. I guess...",
+      "location": "Virtual",
+      "date": "2020-05-28",
+      "link": "https://thatsmyjamstack.com/posts/tim-benniks/"
+    },
+    {
+      "id": "clifq5c5u3wgo0bw8g8yudazp",
+      "conference": "We Belong Here Podcast Interview",
+      "talk": "How I moved into tech from being a Nurse and Musician",
+      "location": "Virtual",
+      "date": "2020-05-25",
+      "link": "https://webelongpodcast.com/"
+    },
+    {
+      "id": "clifq5cfw3xh00buvhyslf4s3",
+      "conference": "Talent.io talks Online",
+      "talk": "Team First - Corona edition",
+      "location": "Virtual",
+      "date": "2020-05-13",
+      "link": "https://www.eventbrite.com/o/talentio-16600656820"
+    },
+    {
+      "id": "clifq5cpx40hk0bw9odxcxt0q",
+      "conference": "VueJS Olso Virtual Meetup",
+      "talk": "JAMstack is the future. I think. Maybe.",
+      "location": "Virtual",
+      "date": "2020-05-06",
+      "link": "https://www.meetup.com/VueJS-Oslo/events/270218508/"
+    },
+    {
+      "id": "clifq5czw3wgs0bw8srwiffx1",
+      "conference": "MallorcaJS meetup",
+      "talk": "Team First - Corona edition",
+      "location": "Virtual",
+      "date": "2020-04-22",
+      "link": "https://www.meetup.com/MallorcaJS/events/270156286"
+    },
+    {
+      "id": "clifq5dal3xsn0aw49a9wad1n",
+      "conference": "Front-end Love virtual Meetup",
+      "talk": "JAMstack is the future. I think. Maybe.",
+      "location": "Virtual",
+      "date": "2020-03-19",
+      "link": "https://youtu.be/Wq2AqONg7rs?t=5307"
+    },
+    {
+      "id": "clifq5dk940if0bw9ok9achtj",
+      "conference": "Vue.js Amsterdam 2020",
+      "talk": "Team First. A framework to lead a team of developers to success in a high-pressure environment",
+      "location": "Amsterdam, The Netherlands",
+      "date": "2020-02-18",
+      "link": "https://vuejs.amsterdam/"
+    },
+    {
+      "id": "clifq5dyh40ij0bw9oquw072b",
+      "conference": "Vue.js Paris Meetup",
+      "talk": "JAMstack is the future. I think. Maybe.",
+      "location": "Paris, France",
+      "date": "2019-12-17",
+      "link": "https://www.meetup.com/Vuejs-Paris/events/266953797/"
+    },
+    {
+      "id": "clifq5ebo3wgx0bw8vno5ce0d",
+      "conference": "The evolution of modern web development on monolithic platforms",
+      "talk": "JAMstack is the future. I think. Maybe.",
+      "location": "Paris, France",
+      "date": "2019-11-28",
+      "link": "https://www.meetup.com/Meet-up-at-Valtech-Front-Platform/events/265587330/"
+    },
+    {
+      "id": "clifq5eos3xhh0buvewly5gxs",
+      "conference": "Budapest VUE.JS meetup VueAnd.Me edition",
+      "talk": "Team First. A framework to lead a team of developers to success in a high-pressure environment",
+      "location": "Budapest, Hungary",
+      "date": "2019-09-27",
+      "link": "https://www.meetup.com/Vue-js-Budapest/events/263805562/"
+    },
+    {
+      "id": "clifq5f1b3wh10bw8ftmppjkc",
+      "conference": "EXDS#19",
+      "talk": "Delivery guidelines for creative assets",
+      "location": "Amsterdam, The Netherlands",
+      "date": "2019-09-09",
+      "link": "https://www.valtech.com/"
+    },
+    {
+      "id": "clifq5fer3xhl0buvzzgwqg1k",
+      "conference": "Vue.js Paris meetup",
+      "talk": "Vue.js for L'Oreal. A case study",
+      "location": "Paris, France",
+      "date": "2019-09-04",
+      "link": "https://www.meetup.com/fr-FR/Vuejs-Paris/events/263934300/"
+    },
+    {
+      "id": "clifq5fpd3xt00aw4grnzft29",
+      "conference": "Vue.js roadtrip 2019 - Barcelona",
+      "talk": "Team First. A framework to lead a team of developers to success in a high-pressure environment",
+      "location": "Barcelona, Spain",
+      "date": "2019-05-25",
+      "link": "https://discover.events.com/es/catalunya/ciutat-vella/e/business/vuejs-frontend-roadtrip-barcelona-holaluz-office-294857096"
+    },
+    {
+      "id": "clifq5g1f3wh90bw81u5sa0ai",
+      "conference": "Vue.js roadtrip 2019 - Paris",
+      "talk": "Team First. A framework to lead a team of developers to success in a high-pressure environment",
+      "location": "Paris, France",
+      "date": "2019-05-17",
+      "link": "https://eventil.com/events/frontend-vuejs-roadtrip-paris"
+    },
+    {
+      "id": "clifq5gd63xhq0buvufv6nagk",
+      "conference": "VueDay 2019",
+      "talk": "Vue.js for L'Oreal. A case study.",
+      "location": "Verona, Italy",
+      "date": "2019-04-19",
+      "link": "https://2019.vueday.it/"
+    },
+    {
+      "id": "clifq5gns3xhu0buv6a8th0jk",
+      "conference": "vuejs.amsterdam 2019",
+      "talk": "Vue.js for L'Oreal. A case study.",
+      "location": "Amsterdam, the Netherlands",
+      "date": "2019-02-26",
+      "link": "https://vuejs.amsterdam"
+    },
+    {
+      "id": "clifq5gzg40j20bw9ne2mh9n6",
+      "conference": "vuejs.amsterdam 2019",
+      "talk": "Vue.js for L'Oreal. A case study.",
+      "location": "Amsterdam, The netherlands",
+      "date": "2019-02-14",
+      "link": "https://vuejs.amsterdam"
+    }
+  ]
+}
