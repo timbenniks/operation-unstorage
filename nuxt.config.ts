@@ -4,7 +4,7 @@ export default defineNuxtConfig({
   future: {
     compatibilityVersion: 4,
   },
-  runtimeConfig: {
-    gqlEndpoint: process.env.GQL_ENDPOINT,
+  routeRules: {
+    '/api/talks/**': { isr: true }
   }
 })
