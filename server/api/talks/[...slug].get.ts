@@ -15,7 +15,7 @@ type Talk = {
   location: string;
 }
 
-async function getTalks(endpoint: string) {
+async function getTalkKeys(endpoint: string) {
   const { data } = await ofetch(endpoint, {
     method: "post",
     body: {
@@ -23,11 +23,6 @@ async function getTalks(endpoint: string) {
           query Talks($first: Int!) {
             talks(first: $first, orderBy: date_DESC) {
               id
-              conference
-              talk
-              location
-              date
-              link
             }
           }
           `,
@@ -40,6 +35,31 @@ async function getTalks(endpoint: string) {
   return data.talks
 };
 
+async function getTalk(endpoint: string, id: string) {
+  const { data } = await ofetch(endpoint, {
+    method: "post",
+    body: {
+      query: `
+          query Talk($id: ID!) {
+            talk(where: { id: $id }) {
+              id
+              conference
+              talk
+              location
+              date
+              link
+            }
+          }
+          `,
+      variables: {
+        id,
+      },
+    },
+  });
+
+  return data.talk
+};
+
 
 function convertToMarkdown(markdownData: MarkdownData) {
   const frontMatter = Object.entries(markdownData)
@@ -47,7 +67,7 @@ function convertToMarkdown(markdownData: MarkdownData) {
     .map(([key, value]) => `${key}: ${JSON.stringify(value)}`)
     .join("\n");
 
-  const markdownContent = `---\n${frontMatter}\n---\n\n${markdownData.body}`;
+  const markdownContent = `---\n${frontMatter}\n---\n\n${markdownData.body ? markdownData.body : ''}`;
 
   return markdownContent;
 }
@@ -57,14 +77,14 @@ export default eventHandler(async (event) => {
   const endoint = runtimeConfig.gqlEndpoint
 
   const slug = event.context.params?.slug
-  const talks = await getTalks(endoint)
-  const talkSlugs = talks.map((talk: any) => {
-    return `${talk.id}.md`
-  })
+
 
   // unstorage getKeys
   if (slug === ':') {
-    return talkSlugs
+    const talks = await getTalkKeys(endoint)
+    return talks.map((talk: any) => {
+      return `${talk.id}.md`
+    })
   }
 
   // unstorage getMeta
@@ -75,11 +95,11 @@ export default eventHandler(async (event) => {
   }
 
   // unstorage getItem
-  const talkInfo = talks.find((talk: Talk) => talk.id === slug?.replace(".md", ""))
+  const talkInfo = await getTalk(endoint, slug?.replace(".md", "") as string)
   return convertToMarkdown({
     "title": talkInfo.talk,
     "description": talkInfo.conference,
     ...talkInfo,
-    "body": `# ${talkInfo.talk} on ${talkInfo.conference} at ${talkInfo.date}`
+    // "body": `# ${talkInfo.talk} on ${talkInfo.conference} at ${talkInfo.date}`
   });
 })
